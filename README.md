@@ -1,6 +1,6 @@
 # chinese-menu.com
 
-Website github repo for the infamous [chinese-menu.com](http://www.chinese-menu.com)
+Website github repo for the infamous [chinese-menu.com](http://chinese-menu.com)
 
 ---
 
